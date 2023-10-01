@@ -1,5 +1,5 @@
 {
-    "name": "stews@soup",
+    "name": "stews/soup",
     "version": "1.0.0",
     "author": "paigeroid",
     "description": "Stews is a Node.JS package meant to make storing data easier by mixing parts from common data types.",
