@@ -1,5 +1,6 @@
 const Soup = require('../index.js');
 const Stew = require('@stews/stew');
+const Noodle = require('@stews/noodle');
 
 
 function SoupPour(type=null, joiner='') {
