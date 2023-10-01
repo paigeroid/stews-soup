@@ -1,6 +1,7 @@
 const cl = require('aepl');
 const fs = require('fs');
-const Stew = require('@stews/soup');
+const Stew = require('stews@soup');
+const Noodle = require('stews@noodle');
 
 
 // main class
