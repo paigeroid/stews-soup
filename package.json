@@ -1,6 +1,6 @@
 {
     "name": "@stews/soup",
-    "version": "1.9.0",
+    "version": "1.0.0",
     "author": "paigeroid",
     "description": "Stews is a Node.JS package meant to make storing data easier by mixing parts from common data types.",
     "repository": {
@@ -16,7 +16,6 @@
     },
     "dependencies": {
          "aepl": "latest",
-         "@stews/stew": "latest"
     },
     "homepage": "https://youtu.be/dQw4w9WgXcQ",
     "main": "./src/index.js"
